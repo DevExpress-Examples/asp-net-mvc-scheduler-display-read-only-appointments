@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="MVCSchedulerReadOnly.MvcApplication" Language="vb" %>
+<%@ Application Codebehind="Global.asax.vb" Inherits="MVCSchedulerReadOnly.MvcApplication" Language="VB" %>

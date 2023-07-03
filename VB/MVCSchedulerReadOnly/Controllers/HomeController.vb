@@ -1,18 +1,14 @@
-﻿Imports System
-Imports System.Collections.Generic
-Imports System.Linq
-Imports System.Web
 Imports System.Web.Mvc
-Imports DevExpress.Web.Mvc
 Imports MVCSchedulerReadOnly.Models
 
 Namespace MVCSchedulerReadOnly.Views
+
     Public Class HomeController
         Inherits Controller
 
         '
         ' GET: /Home/
-        #Region "#commonactions"
+'#Region "#commonactions"
         Public Function Index() As ActionResult
             Return View(SchedulerDataHelper.DataObject)
         End Function
@@ -20,7 +16,6 @@ Namespace MVCSchedulerReadOnly.Views
         Public Function SchedulerPartial() As ActionResult
             Return PartialView("SchedulerPartial", SchedulerDataHelper.DataObject)
         End Function
-        #End Region ' #commonactions
-
+'#End Region  ' #commonactions
     End Class
 End Namespace
