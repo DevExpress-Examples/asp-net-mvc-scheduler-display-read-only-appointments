@@ -7,7 +7,7 @@
 
 This example demonstrates how to add the [Scheduler extension](https://docs.devexpress.com/AspNetMvc/11431/components/scheduler) to an application. The Scheduler is bound to a data source and displays read-only appointments. Refer to the following article for more information: [Lesson 1 - Use Scheduler to Display Appointments in Read-Only Mode](https://docs.devexpress.com/AspNetMvc/11554/components/scheduler/get-started/lesson-1-use-scheduler-to-display-appointments-in-read-only-mode).
 
-<img src="https://raw.githubusercontent.com/DevExpress-Examples/scheduler-lesson-1-show-appointments-in-read-only-mode-e3971/14.2.3+/media/592dde44-debd-11e4-80bf-00155d62480c.png">
+<img src="https://raw.githubusercontent.com/DevExpress-Examples/scheduler-lesson-1-show-appointments-in-read-only-mode-e3971/14.2.3+/media/592dde44-debd-11e4-80bf-00155d62480c.png"> <br />
 
 Call the Scheduler's [Bind(filterAppointmentMethod, filterResourceMethod)](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.SchedulerExtension.Bind(DevExpress.Web.Mvc.PersistentObjectCancelMethod-DevExpress.Web.Mvc.PersistentObjectCancelMethod)) method overload to hide specific appointments and resources. After that, call the [Bind(appointmentDataObject, resourceDataObject)](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.SchedulerExtension.Bind(System.Object-System.Object)) method overload to bind the extension to data.
 
