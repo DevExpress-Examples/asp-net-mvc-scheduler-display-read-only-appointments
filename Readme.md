@@ -30,7 +30,7 @@ Call the Scheduler's [Bind(filterAppointmentMethod, filterResourceMethod)](https
 
 * [Scheduler for ASP.NET MVC - How to allow users to edit data](https://github.com/DevExpress-Examples/scheduler-lesson-2-insert-update-delete-appointment-feature-e3984)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-scheduler-display-read-only-appointments&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-scheduler-display-read-only-appointments&~~~was_helpful=no)
 
